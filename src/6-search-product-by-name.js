@@ -15,7 +15,4 @@ const searchProductByName = (nameProduct) => {
   }
   return null;
 }
-  
-
-searchProductByName("Arroz");
 module.exports = { searchProductByName };
