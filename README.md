@@ -1,27 +1,31 @@
 <img src="./assets/images/pirilampo-logo.png" alt="Supermercado Pirilampo">
 
-<h1 align="center">Super Mercado Pirilampo - Documentação</h1>
+### Super Mercado Pirilampo - Documentação
 
-<h2>## Descrição do Projeto</h2>
-<p>🚀Projeto voltado para a lógica de programação, especialmente idealizado para pesquisa sobre produtos, e status dos mesmos. </p>
+## Descrição do Projeto
+ - 🚀Projeto voltado para a lógica de programação, especialmente idealizado para pesquisa sobre produtos, e status dos mesmos.
 
-<h2>#Status do projeto</h2>
+## Status do projeto
+	
+> Finalizado! :white_check_mark:
 
-<h4>	
-Super Mercado Pirilampo 🚀 Pronto! :white_check_mark:
-</h4>
+## Como Executar os Testes
 
-<h2>## Como Executar os Testes</h2>
+<table>
+  <tr>
+    <td>Rodar todos os testes</td>
+    <td>Rodar um teste específico</td>
+  </tr>
+  <tr>
+    <td>npm run test</td>
+    <td>npm run test (number)</td>
+  </tr>
+</table>
 
-<h4> 
-Após a configuração do ambiente, rodar o comando "npm run tests" para todos os requisitos, ou "npm run test 01" (exemplo) para testes específicos
-</h4>
+## Configuração do Ambiente
 
-<h2>## Configuração do Ambiente</h2>
+> Apenas execute "npm install" ao fazer o fork do projeto, e utilize os comandos acima.
 
-<h4> 
-Apenas execute "npm install" ao fazer o fork do projeto, e utilize os comandos acima.
-</h4>
 ---
 
 
