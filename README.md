@@ -1,4 +1,4 @@
-<img src="./assets/images/pirilampo-logo.png" alt="Supermercado Pirilampo">
+<img align="center" src="./assets/images/pirilampo-logo.png" alt="Supermercado Pirilampo">
 
 ### Super Mercado Pirilampo - Documentação
 
